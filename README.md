@@ -40,9 +40,9 @@ This project demonstrates real-time form validation with clean UI feedback and s
 
 ```id="p9d2xw"
 Email-password-validator/
-│── validator.html
-│── validator.css
-│── validator.js
+│── index.html
+│── index.css
+│── index.js
 │── README.md
 ```
 
